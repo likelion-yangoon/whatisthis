@@ -1797,6 +1797,7 @@
 			.main.style1 h2 {
 				font-size: 4.25em;
 				line-height: 1em;
+				text-shadow:0 2px 0 rgba(0, 0, 0, 0.75);
 			}
 
 			.main.style1 > .content {
